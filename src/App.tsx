@@ -134,6 +134,7 @@ const Card = styled.div`
         font-size: 4rem;
         font-weight: 700;
         border: none;
+
         border-bottom: 2px solid #000;
 
         &:focus {
